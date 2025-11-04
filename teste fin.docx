@@ -1,9 +1,0 @@
-Test Patient
-Nom: {nom}
-Prénom: {prenom}
-NISS: {niss}
-
-Prestations
-{#desc}
-- {nomen_desc} ({code}) - {prix} EUR
-{/desc}
